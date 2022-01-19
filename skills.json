@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"1":"Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC",
 "2":"Что такое клиент-серверная архитектура",
 "3":"HTTP Методы запросов на сервер",
@@ -25,3 +26,32 @@
 "25":"Нагрузочное тестирование в Jmeter",
 "26":"Методология разработки Scrum",
 "27":"Python. (Изучение основ. Создание клиент серверного приложения)"}
+=======
+{"1":"Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC",
+"2": "What is a client-server architecture",
+"3":"HTTP Server request methods",
+"4":"HTTP server response codes",
+"5":"HTTP request and response structures",
+"6":"What is JSON, XML. Their structure",
+"7":"API testing via Postman (JS, API autotests)",
+"8":"Removing and reading logs from an external server",
+"9":"Sniffing http web traffic via Charles and Fiddler",
+"10":"Dev Tools of web browsers (Google Chrome, FireFox)",
+"11": "VPN. (How it works, why you need it, how to use it, tool options)",
+"12": "Mobile testing",
+"13": "IOS Feature, Android, Guidelines",
+"14":"Building iOS applications on XCode. (Those who don't have a Mac computer, just take a look)",
+"15":"Building Android applications on Android Studio",
+"16":"ADB (android device management)",
+"17":"Proxy and vpn setup on iOS and Android",
+"18":"Intercepting (sniffing) mobile traffic via Charles and Fiddler on iOS and Android",
+"19":"Linux command line (terminal) (copy, create, view, move files on non-GUI servers)",
+"20":"Basics of bash scripting, automation of routine tasks on the server",
+"21":"Access to remote servers",
+"22":"SQL Basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)",
+"23":"Postgres database (installation, configuration and use)",
+"24":"Redis non-relational database (installation, configuration and use)",
+"25": "Load testing in Jmeter",
+"26": "Scrum development methodology",
+"27":"Python. (Learning the basics. Creating a client-server application)"}
+>>>>>>> 4e123bfbfe747137d197b9523e83f7575782f6de
