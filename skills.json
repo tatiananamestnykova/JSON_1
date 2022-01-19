@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"1":"Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC",
 "2":"Что такое клиент-серверная архитектура",
 "3":"HTTP Методы запросов на сервер",
@@ -27,6 +28,8 @@
 "26":"Методология разработки Scrum",
 "27":"Python. (Изучение основ. Создание клиент серверного приложения)"}
 =======
+=======
+>>>>>>> 955cf19f857c2d3958aec84a809d6147261ccc4c
 {"1":"Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC",
 "2": "What is a client-server architecture",
 "3":"HTTP Server request methods",
@@ -54,4 +57,7 @@
 "25": "Load testing in Jmeter",
 "26": "Scrum development methodology",
 "27":"Python. (Learning the basics. Creating a client-server application)"}
+<<<<<<< HEAD
 >>>>>>> 4e123bfbfe747137d197b9523e83f7575782f6de
+=======
+>>>>>>> 955cf19f857c2d3958aec84a809d6147261ccc4c
